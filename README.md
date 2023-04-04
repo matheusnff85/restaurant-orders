@@ -32,7 +32,7 @@
 
   - A aplicação gerá um arquivo txt, utilizando o comando `python3 -m src.analyze_log` que pode ser encontrado em `./data/mkt_campaign.txt`, que se baseia nas informações abaixo:
 
-      - Qual o prato mais pedido por 'maria'?
+      - Qual o prato mais pedido por 'Maria'?
 
       - Quantas vezes 'Arnaldo' pediu 'hambúrguer'?
 
